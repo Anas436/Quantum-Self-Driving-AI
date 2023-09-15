@@ -36,4 +36,5 @@ Training models using 4 qubit HVA circuit + Deep Learnning Neural netwwrk
 ## Resource
 - Omdena Local Chapter Link [here](https://omdena.com/chapter-challenges/quantum-self-driving-neural-networks/)
 - Omdena Github Link [here](https://github.com/raghav-thiruv/Omdena-Quantum-Self-Driving)
+- Other Link [here](https://github.com/soundwaverohit/QuantumSelfDriving)
 
